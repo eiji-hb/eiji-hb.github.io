@@ -1,16 +1,19 @@
 module.exports = {
     siteMetadata: {
-        title: `Gatsby Starter Blog`,
+        title: `https://eiji-hb.github.io/`,
         author: {
-            name: `Kyle Mathews`,
-            summary: `who lives and works in San Francisco building useful things.`,
+            name: `eiji sugiura`,
+            summary: ``,
         },
-        description: `A starter blog demonstrating what Gatsby can do.`,
+        description: `blog`,
         siteUrl: `https://eiji-hb.github.io/`,
         social: {
-            twitter: `kylemathews`,
+            twitter: `st5e_jp`,
         },
     },
+    flags: {
+        PARALLEL_QUERY_RUNNING: true
+      },
     plugins: [
         `gatsby-plugin-image`,
         {

@@ -2,6 +2,7 @@
 ```
 yarn run develop
 ```
+http://localhost:8000
 
 ## deploy
 ```
