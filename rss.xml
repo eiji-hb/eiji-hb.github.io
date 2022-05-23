@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://eiji-hb.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 23 May 2022 15:13:12 GMT</lastBuildDate><item><title><![CDATA[Gatsby_ブログ_初期構築メモ]]></title><description><![CDATA[今回はこのブログをデプロイまで実施した手順をメモする。 cliインストール ブログテンプレート 生成 github pagesへ公開 githubリポジトリ作成 リポジトリ名は 作成したブログをpush の命名規則でリポジトリを作成した時点で自動的にGitHub Pages…]]></description><link>https://eiji-hb.github.io/hello-world/</link><guid isPermaLink="false">https://eiji-hb.github.io/hello-world/</guid><pubDate>Mon, 23 May 2022 23:42:03 GMT</pubDate><content:encoded>&lt;p&gt;今回はこのブログをデプロイまで実施した手順をメモする。&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[blog]]></description><link>https://eiji-hb.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 23 May 2022 15:16:19 GMT</lastBuildDate><item><title><![CDATA[Gatsby_ブログ_初期構築メモ]]></title><description><![CDATA[今回はこのブログをデプロイまで実施した手順をメモする。 cliインストール ブログテンプレート 生成 github pagesへ公開 githubリポジトリ作成 リポジトリ名は 作成したブログをpush の命名規則でリポジトリを作成した時点で自動的にGitHub Pages…]]></description><link>https://eiji-hb.github.io/hello-world/</link><guid isPermaLink="false">https://eiji-hb.github.io/hello-world/</guid><pubDate>Mon, 23 May 2022 23:42:03 GMT</pubDate><content:encoded>&lt;p&gt;今回はこのブログをデプロイまで実施した手順をメモする。&lt;/p&gt;
 &lt;h2&gt;cliインストール&lt;/h2&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;npm install -g gatsby-cli&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h2&gt;ブログテンプレート 生成&lt;/h2&gt;
@@ -74,7 +74,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.gatsbyjs.com/docs/how-to/previews-deploys-hosting/how-gatsby-works-with-github-pages/&quot;&gt;How Gatsby Works with GitHub Pages&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;反映まで時間がかかります(数分)しばらく待てば公開されます！&lt;/p&gt;
+&lt;p&gt;反映まで時間がかかります(2~3分)しばらく待てば公開されます！&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;現時点で色々テンプレのままが散見されるがおいおい直す予定&lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item></channel></rss>
